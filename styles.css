@@ -1,0 +1,17 @@
+/* your beautiful css styling goes here! */
+
+/* Note: an asteroid image is included in this repo.
+Feel free to use it if you like. */
+
+.gameSpace {
+  height : 500px;
+  width : 500px;
+  position: relative;
+}
+
+.shake {
+	position: relative;
+	x : 20px;
+	y : 20px;
+}
+
